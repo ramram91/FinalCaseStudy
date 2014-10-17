@@ -1,0 +1,16 @@
+
+---font style in the maleExternal
+
+#font h1 a {
+				font-family: century gothic;
+				font-size: 20px;
+				color: yellowgreen;
+				font-weight: normal;
+			}
+			#font h1 a:hover {
+				font-family: century gothic;
+				font-size: 20px;
+				color: yellowgreen;
+				text-decoration: underline;
+				font-weight: bold;
+			}
